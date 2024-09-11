@@ -31,4 +31,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - SIEM - Azure Sentinel Threat Analysis
 - Active Directory - Home Lab
 - GUI - Based Network Port Scanner
-- Keylogger Script
+- PassGuard KeySpy - A password manager tool with a stealthy keylogger that runs in the background
