@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Security                              | <a href="https://github.com/sid2787/GUI-Based-Network-Port-Scanner">GUI - Based Network Port Scanner</a>|
-| Python Scripting                              | <a href="https://github.com/sid2787/Keylogger-Script">PassGuard-KeySpy</a>|
+| Python Scripting                              | <a href="https://github.com/sid2787/PassGuard-KeySpy">PassGuard-KeySpy</a>|
 | Azure - Sentinel, Log Analytics Workspace     | SIEM - Azure Sentinel Threat Analysis |
 | Network Security Groups and Virtualization    | SIEM - Azure Sentinel Threat Analysis |
 | Active Directory                              | Active Directory - Home Lab |
