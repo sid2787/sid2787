@@ -1,7 +1,7 @@
 # Hello, I'm Sidharth
 <a href="https://linkedin.com/in/sidsm"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a cyber security professional with over 2 years of experience in domains such as network security, application security, cloud security, vulnerability assessment and configuration review. 
+Cyber security professional with over 2 years of experience in domains such as network security, application security, cloud security, vulnerability assessment and configuration review. 
 
 ## Objective
 
