@@ -3,9 +3,13 @@
 
 Cyber security professional with over 2 years of experience in domains such as network security, application security, cloud security, vulnerability assessment and configuration review. 
 
-## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to deepen my knowledge by building hands-on projects and exploring advanced security concepts.
+## Projects
+- SIEM - Azure Sentinel Threat Analysis
+- Active Directory - Home Lab
+- GUI - Based Network Port Scanner
+- PassGuard KeySpy - A password manager tool with a stealthy keylogger that runs in the background
+
 
 ## Skills
 
@@ -18,6 +22,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Active Directory                              | Active Directory - Home Lab |
 | PowerShell                                    | Active Directory - Home Lab |
 
+
 ## Certifications
 
 <div>
@@ -27,8 +32,4 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <img src="https://img.shields.io/badge/Azure%20AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
-## Projects
-- SIEM - Azure Sentinel Threat Analysis
-- Active Directory - Home Lab
-- GUI - Based Network Port Scanner
-- PassGuard KeySpy - A password manager tool with a stealthy keylogger that runs in the background
+
