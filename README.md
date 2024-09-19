@@ -14,8 +14,8 @@
 |-----------------------------------------------|----------------------------|
 | Network Security                              | <a href="https://github.com/sid2787/GUI-Based-Network-Port-Scanner">GUI - Based Network Port Scanner</a>|
 | Python Scripting                              | <a href="https://github.com/sid2787/PassGuard-KeySpy">PassGuard-KeySpy</a>|
-| Azure - Sentinel, Log Analytics Workspace     | SIEM - Azure Sentinel Threat Analysis |
-| Network Security Groups and Virtualization    | SIEM - Azure Sentinel Threat Analysis |
+| Azure - Sentinel, Log Analytics Workspace     | <a href="https://github.com/sidsmenon/sentinel-honeypot">SIEM - Azure Sentinel Threat Analysis</a>|
+| Network Security Groups and Virtualization    | <a href="https://github.com/sidsmenon/sentinel-honeypot">SIEM - Azure Sentinel Threat Analysis</a>|
 | Active Directory                              | Active Directory - Home Lab |
 | PowerShell                                    | Active Directory - Home Lab |
 
