@@ -23,12 +23,12 @@
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/CEH-A10000?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/eJPT-000000?style=for-the-badge&logo=ine&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS%20CCP-FF9900?style=for-the-badge&logo=Amazon%20Aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure%20AZ--900-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/CEHv12-D30000" />
+<img src="https://img.shields.io/badge/eJPT-000000" />
+<img src="https://img.shields.io/badge/AWS%20CCP-FF5C00" />
+<img src="https://img.shields.io/badge/AZ%20900-007FFF" />
 <img src="https://img.shields.io/badge/CCSK-4194CB" />
-<img src="https://img.shields.io/badge/MCRTA-000000" />
+<img src="https://img.shields.io/badge/MCRTA-8A2BE2" />
 </div>
 
 
